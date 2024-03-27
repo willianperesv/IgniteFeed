@@ -27,8 +27,8 @@ const posts: PostType[] = [
       role: 'Kotlin Senior Enginner',
     },
     content: [
-      { type: 'paragraph', content: 'Fala meus compatriotas!!!! ' },
-      { type: 'paragraph', content: 'Acabei de enviar mensagens duvidosas pra todos vocês, não me excluam do grupo' },
+      { type: 'paragraph', content: 'Fala Pessoal!!!! ' },
+      { type: 'paragraph', content: 'Acabei de enviar mensagens usando o Ignite Feed, deixe um like!' },
       { type: 'paragraph', content: 'Faça conexão no meu Linkedin' },
       { type: 'link', content: 'https://www.linkedin.com/in/fzellner/' }
     ],
@@ -42,8 +42,8 @@ const posts: PostType[] = [
       role: 'Java Developer',
     },
     content: [
-      { type: 'paragraph', content: 'KKKKKKKKKK ' },
-      { type: 'paragraph', content: 'Cheguei a me engasgar com a areia que estava comendo aqui!' },
+      { type: 'paragraph', content: 'Aloouu meus amigos!' },
+      { type: 'paragraph', content: 'Estou chegando por aqui, podem comentar por aqui!' },
       { type: 'paragraph', content: 'Faça conexão no meu Linkedin' },
       { type: 'link', content: 'https://www.linkedin.com/in/gabrielftsa/' }
     ],
@@ -52,13 +52,13 @@ const posts: PostType[] = [
   {
     id: 4,
     author: {
-      avatarUrl: "https://scontent-gru2-1.xx.fbcdn.net/v/t39.30808-6/240453491_4169775549736996_3723607504710029926_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=9c7eae&_nc_eui2=AeHs2KZQynO8xQExrqJlRO8BadQxZHTAnORp1DFkdMCc5Gc2LVy7IYLQONbhuy-GUdiFJ7ZtnFBDphG9sfE0hHxv&_nc_ohc=vO7VPLqoDFUAX94vnQV&_nc_ht=scontent-gru2-1.xx&oh=00_AfBEfYrG6SzcxSx46Q20RoE5oYrUv04gkIs4DL9pUxOJIw&oe=65DE6C87",
+      avatarUrl: "https://github.com/DroopeGu1.png",
       name: 'Pedro Guilherme',
       role: 'React Developer',
     },
     content: [
-      { type: 'paragraph', content: 'Eai Cambada!! 👋 ' },
-      { type: 'paragraph', content: 'É só ouvir o capita que dá bom a gameplay!!' },
+      { type: 'paragraph', content: 'Olá!! 👋 ' },
+      { type: 'paragraph', content: 'Me chamo Pedro e estou no Ignite Feed!!' },
       { type: 'paragraph', content: 'Acesse meu Github para ver meu portifólio' },
       { type: 'link', content: 'https://github.com/DroopeGu1/' }
     ],
